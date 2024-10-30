@@ -1,0 +1,42 @@
+
+#div-header {
+	margin-top:-5px;
+	min-width: 100%;
+	color: white;
+	background-color: black;
+}
+
+.menu-bar {
+	margin-left: 10px;
+	color: inherit;
+	text-decoration: none;
+}
+
+.form-filter {
+	margin-left: 10px;
+	display: inline-block;
+}
+
+/* Menu Anadir */
+
+.add-form {
+	margin-top: 20px;
+	margin-left: 5px;
+	width: 350px;
+	border: 1px solid;
+	border-radius: 20px;
+	text-align: center;
+}
+
+.add-text {
+	margin-left: 5px;
+	display: block;
+}
+
+.add-input {
+	width: 100px;
+}
+
+
+
+
