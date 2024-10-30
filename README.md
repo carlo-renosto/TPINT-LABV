@@ -1,2 +1,2 @@
-# TPINT-LABV
-Aplicación web de una clínica realizada con Java, segunda versión.
+# app-clinica-v2
+Aplicación web dinámica hecha en Java grupalmente para la materia "Laboratorio de Computación V" en la UTN (Universidad Tecnológica Nacional).
